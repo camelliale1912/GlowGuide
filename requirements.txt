@@ -1,0 +1,12 @@
+numpy
+tensorflow
+pandas
+scikit-learn==1.0.1
+streamlit
+streamlit_option_menu
+pillow
+matplotlib
+plotly
+seaborn
+missingno
+nbformat
